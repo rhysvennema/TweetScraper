@@ -1,3 +1,3 @@
 
 def mypassword():
-    return 'sgproject'
+    return ''
