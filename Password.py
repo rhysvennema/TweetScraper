@@ -1,0 +1,3 @@
+
+def mypassword():
+    return 'sgproject'
